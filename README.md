@@ -21,7 +21,7 @@
 
 ## Descrição do projeto 
 <p align="justify">
-  O projeto da landing page foi desenvolvido durante o curso "<b>Bootstrap 4: Criando uma landing page responsiva</b>" da plataforma de curso e aprendizado Alura. O projeto foi desenvldio para introdução ao Bootstrap, sendo assim, grande parte do seu código e fucionalidades é composta por arquivos do Bootstrap v4.3.
+  O projeto da landing page foi desenvolvido durante o curso "<b>Bootstrap 4: Criando uma landing page responsiva</b>" da plataforma de curso e aprendizado Alura. O projeto foi desenvolvido para introdução ao Bootstrap, sendo assim, grande parte do seu código e fucionalidades é composta por arquivos do Bootstrap v4.3.
   <br>
   O fruta & fruto é um site para visualização de receitas.
 </p>
@@ -29,7 +29,7 @@
 <br>
 
 ##  Funcionalidades do projeto
-- ``Podemos ver receitas disponiveis no site.``
+- ``Podemos ver receitas disponíveis no site.``
 - ``Podemos entrar em contato por meio da opção "contato".``
 
 <br>
