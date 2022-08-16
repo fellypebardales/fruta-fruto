@@ -1,4 +1,5 @@
-![Logo da frutaefruto](https://user-images.githubusercontent.com/86852698/182039029-4bc30141-6a7c-4ea3-ac52-c928a618cd5b.jpg)
+![frutaefruto](https://user-images.githubusercontent.com/86852698/184988701-f93a387f-f734-4a0c-b261-30f1de4ad712.jpg)
+
 
 
 <p align="center">
